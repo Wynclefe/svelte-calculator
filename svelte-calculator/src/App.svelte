@@ -49,3 +49,10 @@
 		</div>
 	</div>
 </div>
+
+<style>
+	.container {
+		background: linear-gradient(#e66465, #9198e5);
+	}
+
+</style>
