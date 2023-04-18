@@ -18,4 +18,9 @@
 		displayValue = '';
 	}
 
+	function calculateResult() {
+		displayValue = eval(displayValue);
+		currentValue = true;
+	}
+
 </script>
