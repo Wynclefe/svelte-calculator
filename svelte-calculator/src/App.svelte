@@ -14,4 +14,8 @@
 		}
 	}
 
+	function clearDisplay() {
+		displayValue = '';
+	}
+
 </script>
