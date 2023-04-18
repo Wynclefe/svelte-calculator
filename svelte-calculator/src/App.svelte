@@ -52,6 +52,7 @@
 
 <style>
 	.container {
+		margin: 0 auto;
 		background: linear-gradient(#e66465, #9198e5);
 	}
 
